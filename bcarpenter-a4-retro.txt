@@ -1,0 +1,5 @@
+Ben Carpenter
+February 14, 2022
+A4 Retrospective
+
+I had success interacting with git and GitHub. I think this is mainly because I use the two tools often, so there wasn't much to get used too. I had some issues, however, when tests that I expected to pass failed. This made me realize a bug in my code! Which is a great way to prove the effectiveness that writing tests has on reducing bugs. Moving forward, I will make sure to use pytest to help me with my assignments, as it was easy to implement, and a quick way to make sure that my methods work as expected. 
