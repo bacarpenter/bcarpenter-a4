@@ -61,10 +61,10 @@ def encode(message, pad):
         if c.isalpha():
             if c.isupper():
                 encoded_message += chr((((ord(c) - 65) +  # Move the letter into number space,
-                                         pad_numbers[pad_pointer]) % 25) + 65)  # shift over, move back into ASCII space
+                                         pad_numbers[pad_pointer]) % 26) + 65)  # shift over, move back into ASCII space
             else:
                 encoded_message += chr((((ord(c) - 97) +
-                                         pad_numbers[pad_pointer]) % 25) + 97)
+                                         pad_numbers[pad_pointer]) % 26) + 97)
             pad_pointer += 1
         else:
             encoded_message += c
