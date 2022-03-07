@@ -1,5 +1,11 @@
 Ben Carpenter
-February 14, 2022
+February 14, 2022 (Updated March 6, 2022)
 A4 Retrospective
 
 I had success interacting with git and GitHub. I think this is mainly because I use the two tools often, so there wasn't much to get used too. I had some issues, however, when tests that I expected to pass failed. This made me realize a bug in my code! Which is a great way to prove the effectiveness that writing tests has on reducing bugs. Moving forward, I will make sure to use pytest to help me with my assignments, as it was easy to implement, and a quick way to make sure that my methods work as expected. 
+
+[ADDED FOR SUBMISSION TWO]
+
+As you pointed out in my feedback on submission one, my README was seriously lacking on this project. I should have focused more time onto improving it in the initial submission because for anyone who comes across this project, it is where they will learn the most about it. A well thought out README draws people in, and will help them learn what my code does. A poorly written README may make them dismiss my code before even trying it out. In the future, I'll make sure to give my documentation more time!
+
+[END ADDITION]
